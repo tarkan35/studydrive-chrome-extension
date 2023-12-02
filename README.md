@@ -1,6 +1,6 @@
-# Studydrive document downloader
+# Studydrive document downloader chrome extension
 
-Diese inoffizielle Chrome-Erweiterung ergänzt Studydrive um einen praktischen Download-Button, der das Herunterladen von Dokumenten ermöglicht.
+Diese inoffizielle Chrome-Erweiterung ergänzt Studydrive um einen Download-Button, um Dokumente herunterzuladen. 
 
 ## Haftungsausschluss
 
