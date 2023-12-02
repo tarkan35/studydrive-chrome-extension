@@ -17,9 +17,11 @@ Diese Erweiterung ist unabhängig und nicht mit StudyDrive assoziiert. Sie wird 
 ## Nutzung
 
 Die Erweiterung fügt einen Download Button am rechten Rand unten auf der Seite ein:
-<img width="333" alt="Preview" src="https://github.com/johanneslo1/studydrive-chrome-extension/assets/36767435/c511b938-8901-4de1-b720-b8939d19eda4">
+
+<img width="286" alt="Bildschirmfoto 2023-12-02 um 19 57 54" src="https://github.com/johanneslo1/studydrive-chrome-extension/assets/36767435/05b83932-8794-4161-814c-2b84b9ac7dbf">
 
 Bitte warte zunächst, bis das PDF geladen ist und auf der Seite angezeigt wird. Anschließend kannst du den Button anklicken und das Dokument wird heruntergeladen.
+
 ## Feedback
 
 Für Feedback oder bei Problemen, öffne ein [Issue im GitHub-Repository](https://github.com/johanneslo1/studydrive-chrome-extension/issues).
