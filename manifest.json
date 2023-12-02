@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Studydrive document downloader",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://www.studydrive.net/*", "https://studydrive.net/*"],
+      "js": ["content-script.js"]
+    }
+  ],
+  "permissions": []
+}
