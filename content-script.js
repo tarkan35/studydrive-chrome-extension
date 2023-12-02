@@ -24,14 +24,16 @@ button.addEventListener('click', function (e) {
         metaKey: false
     });
 
-    // Triggere das Event auf dem document-Element
     window.dispatchEvent(event);
 
 
 });
 
+// Only add the button if the pdf viewer is present
+if(document.getElementById('document-pdf-container')) {
+    document.body.appendChild(button);
+}
 
-document.body.appendChild(button);
 
 
 
