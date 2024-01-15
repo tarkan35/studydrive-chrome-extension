@@ -1,31 +1,31 @@
-# Studydrive pdf document downloader chrome extension
+# Studydrive PDF Document Downloader Chrome Extension
 
-Diese inoffizielle Chrome-Erweiterung ergänzt Studydrive um einen Download-Button, um Dokumente herunterzuladen. 
+This unofficial Chrome extension adds a download button to Studydrive to download documents.
 
-## Haftungsausschluss
+## Disclaimer
 
-Diese Erweiterung ist unabhängig und nicht mit StudyDrive assoziiert. Sie wird ohne Gewährleistung bereitgestellt.
+This extension is independent and not associated with StudyDrive. It is provided without any warranty.
 
-## Einrichtung
+## Setup
 
-1. **Repository herunterladen**: [GitHub Repository](https://github.com/johanneslo1/studydrive-chrome-extension) → "Code" → "Download ZIP" → Entpacken.
+1. **Download Repository**: [GitHub Repository](https://github.com/johanneslo1/studydrive-chrome-extension) → "Code" → "Download ZIP" → Unzip.
 
-2. **Entwicklermodus in Chrome aktivieren**: `chrome://extensions/` → Entwicklermodus einschalten.
+2. **Enable Developer Mode in Chrome**: `chrome://extensions/` → Turn on Developer mode.
 
-3. **Erweiterung laden**: "Entpackte Erweiterung laden" → zum entpackten Verzeichnis navigieren → auswählen.
+3. **Load Extension**: "Load unpacked" → Navigate to the unzipped directory → Select.
 
-## Nutzung
+## Usage
 
-Die Erweiterung fügt einen Download Button am rechten Rand unten auf der Seite ein:
+The extension adds a download button at the bottom right of the page:
 
-<img width="286" alt="Bildschirmfoto 2023-12-02 um 19 57 54" src="https://github.com/johanneslo1/studydrive-chrome-extension/assets/36767435/05b83932-8794-4161-814c-2b84b9ac7dbf">
+<img width="286" alt="Screenshot 2023-12-02 at 19 57 54" src="https://github.com/johanneslo1/studydrive-chrome-extension/assets/36767435/05b83932-8794-4161-814c-2b84b9ac7dbf">
 
-Bitte warte zunächst, bis das PDF geladen ist und auf der Seite angezeigt wird. Anschließend kannst du den Button anklicken und das Dokument wird heruntergeladen.
+Please wait until the PDF is loaded and displayed on the page. Then, click the button, and the document will be downloaded.
 
 ## Feedback
 
-Für Feedback oder bei Problemen, öffne ein [Issue im GitHub-Repository](https://github.com/johanneslo1/studydrive-chrome-extension/issues).
+For feedback or issues, open an [issue in the GitHub repository](https://github.com/johanneslo1/studydrive-chrome-extension/issues).
 
-## Lizenz
+## License
 
-Veröffentlicht unter der MIT-Lizenz. Details siehe [Lizenzdatei](https://github.com/johanneslo1/studydrive-chrome-extension/blob/main/LICENSE).
+Published under the MIT License. See [license file](https://github.com/johanneslo1/studydrive-chrome-extension/blob/main/LICENSE) for details.
