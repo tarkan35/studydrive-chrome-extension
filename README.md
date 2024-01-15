@@ -1,5 +1,9 @@
 # Studydrive PDF Document Downloader Chrome Extension
 
+[![GitHub stars](https://img.shields.io/github/stars/johanneslo1/studydrive-chrome-extension)](https://github.com/johanneslo1/studydrive-chrome-extension/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/johanneslo1/studydrive-chrome-extension)](https://github.com/johanneslo1/studydrive-chrome-extension/issues)
+[![GitHub license](https://img.shields.io/github/license/johanneslo1/studydrive-chrome-extension)](https://github.com/johanneslo1/studydrive-chrome-extension/blob/main/LICENSE)
+
 This unofficial Chrome extension adds a download button to Studydrive to download documents.
 
 ## Disclaimer
