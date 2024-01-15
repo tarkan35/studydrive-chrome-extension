@@ -14,6 +14,8 @@ This extension is independent and not associated with StudyDrive. It is provided
 
 3. **Load Extension**: "Load unpacked" → Navigate to the unzipped directory → Select.
 
+Alternatively, you can install the extension from the Chrome Web Store: [Studydrive Document Downloader](https://chromewebstore.google.com/detail/studydrive-document-downl/difalggihgngpaelndglggbjgkfhehao?hl=de).
+
 ## Usage
 
 The extension adds a download button at the bottom right of the page:
